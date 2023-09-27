@@ -1,0 +1,10 @@
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Mesas', 2000, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Sillas', 4000, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Vasos', 1000, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Pollo', 600, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Res', 600, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Salsa de soya', 300, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Papas', 300, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Arroz', 700, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Harina', 300, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Pepsi', 1000, NOW());
